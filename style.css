@@ -4,7 +4,6 @@ body{
 
 }
 
-
 .home-section{
     display: flex;
     
@@ -12,6 +11,7 @@ body{
 }
 .home-content h1{
     font-size: 50px;
+    line-height: 0.8;
 }
 .orange{
     color: orange;
