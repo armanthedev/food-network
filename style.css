@@ -3,9 +3,26 @@ body{
     font-family: 'Montserrat', sans-serif;
 
 }
+.navbar{
+    display: flex;
+    position: fixed;
+    overflow: hidden;
+    background-color: rgb(70, 62, 62);
+    top: 0;
+    width: 100%;
+    padding-left: 500px;
+}
+.navbar a{
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
 
 .home-section{
     display: flex;
+    margin-top: 50px;
     
 
 }
