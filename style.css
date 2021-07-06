@@ -10,35 +10,103 @@ body{
     
 
 }
-.content h1{
+.home-content h1{
     font-size: 50px;
 }
 .orange{
     color: orange;
 }
-.content{
+.home-content{
     width: 40%;
-    margin: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
 
 }
-.content p{
+.home-content p{
     font-size: 20px;
 }
 .order-food{
     text-decoration: none;
     text-transform: uppercase;
     background-image: linear-gradient(tomato, orange);
-    padding: 10px 30px;
+    padding: 20px 30px;
     border-radius: 10px;
     color: white;
     font-weight: 600;
 }
 
-.photo{
+.home-photo{
     width: 40%;
-    margin: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
 
 }
-.photo img{
+.home-photo img{
     width: 100%;
 }
+
+
+.about-us-section{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.about-us-photo{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+.about-us-content{
+    padding-top: 200px;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+
+}
+.about-us-content h2{
+    font-size: 30px;
+}
+.about-us-content p{
+    font-size: 20px;
+}
+
+.about-us-photo img{
+    padding-left: 150px;
+    padding-top: 150px;
+    height: 500px;
+}
+.recipes{
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+.recipe-content{
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 50px;
+
+}
+.recipe-card{
+    display: flex;
+
+}
+.recipe-item{
+    width: 25%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+.recipe-item img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+
+
+
+
