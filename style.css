@@ -86,10 +86,14 @@ body{
 }
 .recipe-content{
     text-align: center;
-    padding-left: 25%;
-    padding-right: 25%;
+    padding-left: 30%;
+    padding-right: 30%;
     padding-bottom: 50px;
+    
 
+}
+.recipe-content p{
+    line-height: 1.8;
 }
 .recipe-card{
     display: flex;
@@ -98,14 +102,17 @@ body{
 
 .recipe-item{
     width: 25%;
-    padding: 10px;
+    padding: 20px;
 
+}
+.line-height{
+    line-height: 1.8;
 }
 .item1{
     margin-left: 7.5%;
     margin-right: 2.5%;
 
-    box-shadow: 10px 10px 30px gray;
+    box-shadow: 10px 10px 30px rgb(212, 199, 199);
     border-radius: 20px;
     
 
@@ -113,7 +120,7 @@ body{
 .item2{
     margin-left: 2.5%;
     margin-right: 2.53%;
-    box-shadow: 10px 10px 30px gray;
+    box-shadow: 10px 10px 30px rgb(212, 199, 199);
     border-radius: 20px;
 
     
@@ -122,7 +129,7 @@ body{
 .item3{
     margin-right: 7.5%;
     margin-left: 2.5%;
-    box-shadow: 10px 10px 30px gray;
+    box-shadow: 10px 10px 30px rgb(212, 199, 199);
     border-radius: 20px;
 
     
@@ -131,7 +138,45 @@ body{
     width: 100%;
     border-radius: 20px;
 }
+.social-content{
+    margin: 100px;
+    display: flex;
+    box-shadow: 10px 10px 50px rgb(212, 199, 199);
+    border-radius: 40px;
+}
+.youtube{
+    width: 30%;
+    padding: 5%;
+    
+    
+}
+.youtube h1{
+    text-align: center;
+}
+.youtube p{
+    text-align: center;
+}
+.instagram{
+    width: 30%;
+    padding: 5%;
 
+}
+.instagram h1{
+    text-align: center;
+}
+.instagram p{
+    text-align: center;
+}
+.dribble{
+    width: 30%;
+    padding: 5%;
+}
+.dribble h1{
+    text-align: center;
+}
+.dribble p{
+    text-align: center;
+}
 
 
 
