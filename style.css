@@ -95,11 +95,37 @@ body{
     display: flex;
 
 }
+
 .recipe-item{
     width: 25%;
-    margin-left: 5%;
-    margin-right: 5%;
+    padding: 10px;
 
+}
+.item1{
+    margin-left: 7.5%;
+    margin-right: 2.5%;
+
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 20px;
+    
+
+}
+.item2{
+    margin-left: 2.5%;
+    margin-right: 2.53%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 20px;
+
+    
+
+}
+.item3{
+    margin-right: 7.5%;
+    margin-left: 2.5%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 20px;
+
+    
 }
 .recipe-item img{
     width: 100%;
