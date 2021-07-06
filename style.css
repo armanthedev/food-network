@@ -197,6 +197,53 @@ body{
 .dribble p{
     text-align: center;
 }
+.client-section{
+    margin-bottom: 50px;
+
+}
+hr{
+    margin-left: 40%;
+    margin-right: 40%;
+}
+.clients{
+    display: flex;
+    width: 100%;
+
+}
+.client1{
+    width: 25%;
+    margin-right: 2.5%;
+    margin-left: 7.5%;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+
+}
+.client2{
+    width: 25%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    text-align: center;
+
+
+}.client3{
+    width: 25%;
+    margin-left: 2.5%;
+    margin-right: 7.5%;
+    text-align: center;
+
+
+}
+
+
+.image{
+    border-radius: 50%;
+    width: 70%;
+    border: 2px solid tomato;
+}
+
+
+
 footer{
     height: 350px;
     background-color: rgb(61, 56, 56);
