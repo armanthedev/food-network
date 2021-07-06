@@ -177,6 +177,21 @@ body{
 .dribble p{
     text-align: center;
 }
+footer{
+    height: 100px;
+    background-color: rgb(32, 30, 30);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+footer h2{
+    color:white;
+    text-align: center;
+
+}
+footer p{
+    color: white;
+    text-align: center;
+}
 
 
 
