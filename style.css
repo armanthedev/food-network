@@ -218,6 +218,10 @@ hr{
     padding-right: 10px;
     text-align: center;
 
+
+}
+.client1 p{
+    line-height: 1.5;
 }
 .client2{
     width: 25%;
@@ -226,13 +230,19 @@ hr{
     text-align: center;
 
 
-}.client3{
+}.client2 p{
+    line-height: 1.5;
+}
+.client3{
     width: 25%;
     margin-left: 2.5%;
     margin-right: 7.5%;
     text-align: center;
 
 
+}
+.client3 p{
+    line-height: 1.5;
 }
 
 
