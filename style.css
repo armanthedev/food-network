@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.home-section{
+    display: flex;
+    
+
+}
+.content h1{
+    font-size: 50px;
+}
+.orange{
+    color: orange;
+}
+.content{
+    width: 40%;
+    margin: 5%;
+
+}
+.content p{
+    font-size: 20px;
+}
+.order-food{
+    text-decoration: none;
+    text-transform: uppercase;
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+}
+
+.photo{
+    width: 40%;
+    margin: 5%;
+
+}
+.photo img{
+    width: 100%;
+}
